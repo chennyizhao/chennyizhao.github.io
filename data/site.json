@@ -1,0 +1,1293 @@
+{
+  "name": {
+    "zh": "陈艺钊",
+    "en": "Chen Yizhao"
+  },
+  "home": {
+    "hero": null,
+    "featured": [
+      null,
+      null,
+      null
+    ],
+    "mode": "random"
+  },
+  "about": {
+    "paragraphs": [
+      {
+        "zh": "陈艺钊，建筑学专业在读，关注建筑空间、地域文化与日常生活之间的联系。创作与研究涉及建筑设计、空间观察与摄影等领域，尝试以不同媒介探索人与环境、空间与感知之间的关系。",
+        "en": "Chen Yizhao is an architecture student whose work explores the connections between architectural space, regional culture, and everyday life. Working across architectural design, spatial observation, and photography, he uses different media to examine the relationships between people and their environment, and between space and perception."
+      },
+      {
+        "zh": "通过镜头记录不同地域的自然景观、建筑形态与生活片段，将行走中的观察转化为对场所气质与日常细节的感知。在建筑与影像的交汇处，捕捉空间、时间与人的微妙联系，探索真实场景中那些易被忽略的诗意与温度。",
+        "en": "Through photography, he records natural landscapes, architectural forms, and fragments of life across different regions, turning observations made while walking into a sense of place and an awareness of everyday details. At the intersection of architecture and imagery, he captures the subtle connections between space, time, and people, seeking the poetry and warmth that often go unnoticed in real places."
+      }
+    ],
+    "portrait": "assets/about/portrait-large.jpg"
+  },
+  "contact": {
+    "email": "chenyizhao69@gmail.com",
+    "location": {
+      "zh": "江苏省南京市东南大学四牌楼校区前工院三楼3069工位",
+      "en": "Workstation 3069, 3rd Floor, Qiangongyuan Building, Sipailou Campus, Southeast University, Nanjing, Jiangsu, China"
+    }
+  },
+  "architecture": [
+    {
+      "id": "bookstore",
+      "title": {
+        "zh": "先锋书店项目",
+        "en": "Xianfeng Bookstore Project"
+      },
+      "date": "2026-09",
+      "cover": "assets/bookstore/001-thumb.jpg",
+      "images": [
+        {
+          "src": "assets/bookstore/001-large.jpg",
+          "thumb": "assets/bookstore/001-thumb.jpg",
+          "source": "主图.jpg",
+          "width": 15000,
+          "height": 8438,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/002-large.jpg",
+          "thumb": "assets/bookstore/002-thumb.jpg",
+          "source": "边厅.jpg",
+          "width": 15000,
+          "height": 10102,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/003-large.jpg",
+          "thumb": "assets/bookstore/003-thumb.jpg",
+          "source": "场景 39.jpg",
+          "width": 10429,
+          "height": 15641,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/004-large.jpg",
+          "thumb": "assets/bookstore/004-thumb.jpg",
+          "source": "后院.jpg",
+          "width": 15000,
+          "height": 10102,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/005-large.jpg",
+          "thumb": "assets/bookstore/005-thumb.jpg",
+          "source": "咖啡厅.jpg",
+          "width": 15000,
+          "height": 10102,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/006-large.jpg",
+          "thumb": "assets/bookstore/006-thumb.jpg",
+          "source": "门厅.jpg",
+          "width": 15000,
+          "height": 10105,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/007-large.jpg",
+          "thumb": "assets/bookstore/007-thumb.jpg",
+          "source": "前院.jpg",
+          "width": 14970,
+          "height": 10081,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/008-large.jpg",
+          "thumb": "assets/bookstore/008-thumb.jpg",
+          "source": "入口院.jpg",
+          "width": 15000,
+          "height": 10102,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/009-large.jpg",
+          "thumb": "assets/bookstore/009-thumb.jpg",
+          "source": "收银台.jpg",
+          "width": 14766,
+          "height": 9846,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/010-large.jpg",
+          "thumb": "assets/bookstore/010-thumb.jpg",
+          "source": "书阶.jpg",
+          "width": 15000,
+          "height": 10102,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/011-large.jpg",
+          "thumb": "assets/bookstore/011-thumb.jpg",
+          "source": "书廊.jpg",
+          "width": 15000,
+          "height": 9989,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/012-large.jpg",
+          "thumb": "assets/bookstore/012-thumb.jpg",
+          "source": "渲染台口.jpg",
+          "width": 15000,
+          "height": 10102,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/bookstore/013-large.jpg",
+          "thumb": "assets/bookstore/013-thumb.jpg",
+          "source": "主厅反向.jpg",
+          "width": 14896,
+          "height": 10029,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        }
+      ],
+      "location": {
+        "zh": "福建省泉州市鲤城区",
+        "en": "Licheng District, Quanzhou, Fujian, China"
+      },
+      "type": {
+        "zh": "建筑改造",
+        "en": "Adaptive reuse"
+      },
+      "role": {
+        "zh": "团队合作",
+        "en": "Team project"
+      },
+      "description": {
+        "zh": "项目以“半城烟火一页仙”为主题，回应泉州古城日常生活与精神性并存的气质。设计延续原建筑由礼拜堂、影院至仓库的历史记忆，以对称的板梁秩序与非对称的功能布局，组织中央通高书厅、书阶、书廊及咖啡厅，形成贯通多层的回游阅读路径。前院通过双入口区分游客与居民流线，后院以廊亭、台阶座椅衔接公共活动与街巷生活。天窗引入自然光，红铜色金属、清水混凝土与闽南“出砖入石”细节呼应地方材料与剧场记忆，让阅读、交流和日常停留在新旧空间之间自然发生。",
+        "en": "Under the theme “Half a City of Everyday Life, a Page of Transcendence,” the project responds to the coexistence of everyday life and spiritual experience in historic Quanzhou. Retaining the building’s layered history as a chapel, cinema, and warehouse, the design combines a symmetrical beam-and-slab order with an asymmetrical arrangement of uses. A double-height book hall, stepped reading area, upper gallery, and café form a looping route across multiple levels. Two entrances distinguish visitor and resident circulation, while courtyard pavilions and stepped seating connect public activities with surrounding lanes. Skylights, copper-toned metal, exposed concrete, and local brick-and-stone details bring together reading, conversation, and everyday encounters within the old building."
+      },
+      "documents": [],
+      "dateEnd": "2026-11",
+      "period": {
+        "zh": "2026年9月—11月",
+        "en": "September–November 2026"
+      }
+    },
+    {
+      "id": "apartments",
+      "title": {
+        "zh": "进香河青年公寓项目",
+        "en": "Jinxianghe Youth Apartments Project"
+      },
+      "date": "2025-11",
+      "cover": "assets/apartments/001-thumb.jpg",
+      "images": [
+        {
+          "src": "assets/apartments/001-large.jpg",
+          "thumb": "assets/apartments/001-thumb.jpg",
+          "source": "街角2.png",
+          "width": 3840,
+          "height": 2557,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/apartments/002-large.jpg",
+          "thumb": "assets/apartments/002-thumb.jpg",
+          "source": "看球场最终.png",
+          "width": 3840,
+          "height": 2557,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/apartments/003-large.jpg",
+          "thumb": "assets/apartments/003-thumb.jpg",
+          "source": "室内贯通2_2.png",
+          "width": 3840,
+          "height": 2557,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/apartments/004-large.jpg",
+          "thumb": "assets/apartments/004-thumb.jpg",
+          "source": "图片_1_effect.png",
+          "width": 5760,
+          "height": 3840,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        }
+      ],
+      "location": {
+        "zh": "江苏省南京市玄武区",
+        "en": "Xuanwu District, Nanjing, Jiangsu, China"
+      },
+      "type": {
+        "zh": "建筑设计",
+        "en": "Architectural design"
+      },
+      "role": {
+        "zh": "独立设计",
+        "en": "Individual design"
+      },
+      "description": {
+        "zh": "项目位于南京市玄武区进香河片区，以青年居住与街区公共生活的联系为切入点，探索兼顾独立生活与邻里交往的居住空间。设计通过架空、体量错动与多层平台组织建筑，拓展地面活动空间，并以楼梯和共享平台串联不同标高的日常路径。通透的公共界面引入自然光与街区视野，使交通空间兼具停留、交流和观察城市的可能。建筑以清晰的结构表达与公共、私密空间的层次变化，回应青年群体对居住自主性和社区归属感的需求，尝试在紧凑的城市环境中建立开放而有温度的生活场所。",
+        "en": "Located in the Jinxianghe area of Nanjing’s Xuanwu District, the project explores connections between youth housing and neighborhood life, balancing independent living with opportunities for social interaction. Raised volumes, shifts in massing, and multilevel platforms extend ground-level activity spaces, while stairs and shared platforms link everyday routes at different heights. Transparent communal interfaces bring in daylight and views of the neighborhood, allowing circulation spaces to accommodate pauses, conversations, and observations of the city. Clear structural expression and graduated transitions between public and private spaces address young residents’ needs for autonomy and belonging, seeking an open and welcoming place to live within a compact urban setting."
+      },
+      "documents": [
+        {
+          "src": "assets/apartments/section.pdf",
+          "title": {
+            "zh": "剖透视",
+            "en": "Section perspective (PDF)"
+          }
+        }
+      ],
+      "dateEnd": "2026-01",
+      "period": {
+        "zh": "2025年11月—2026年1月",
+        "en": "November 2025–January 2026"
+      }
+    }
+  ],
+  "photography": [
+    {
+      "id": "fleeting-dreams",
+      "title": {
+        "zh": "浮世旧梦",
+        "en": "Dreams of a Floating World"
+      },
+      "date": null,
+      "cover": "assets/fleeting-dreams/001-thumb.jpg",
+      "images": [
+        {
+          "src": "assets/fleeting-dreams/001-large.jpg",
+          "thumb": "assets/fleeting-dreams/001-thumb.jpg",
+          "source": "IMG_0085.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-02",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/002-large.jpg",
+          "thumb": "assets/fleeting-dreams/002-thumb.jpg",
+          "source": "IMG_0098.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-02",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/003-large.jpg",
+          "thumb": "assets/fleeting-dreams/003-thumb.jpg",
+          "source": "IMG_0120.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-02",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/004-large.jpg",
+          "thumb": "assets/fleeting-dreams/004-thumb.jpg",
+          "source": "IMG_0593.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-03",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/005-large.jpg",
+          "thumb": "assets/fleeting-dreams/005-thumb.jpg",
+          "source": "IMG_0683.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-04",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/006-large.jpg",
+          "thumb": "assets/fleeting-dreams/006-thumb.jpg",
+          "source": "IMG_0793.JPG",
+          "width": 1592,
+          "height": 1061,
+          "date": "2026-07-04",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/007-large.jpg",
+          "thumb": "assets/fleeting-dreams/007-thumb.jpg",
+          "source": "IMG_1098.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-04",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/008-large.jpg",
+          "thumb": "assets/fleeting-dreams/008-thumb.jpg",
+          "source": "IMG_1101.JPG",
+          "width": 1546,
+          "height": 1031,
+          "date": "2026-07-04",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/009-large.jpg",
+          "thumb": "assets/fleeting-dreams/009-thumb.jpg",
+          "source": "IMG_1309.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-05",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/010-large.jpg",
+          "thumb": "assets/fleeting-dreams/010-thumb.jpg",
+          "source": "IMG_1415.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-05",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/011-large.jpg",
+          "thumb": "assets/fleeting-dreams/011-thumb.jpg",
+          "source": "IMG_2347.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/012-large.jpg",
+          "thumb": "assets/fleeting-dreams/012-thumb.jpg",
+          "source": "IMG_2543.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/013-large.jpg",
+          "thumb": "assets/fleeting-dreams/013-thumb.jpg",
+          "source": "IMG_8591.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-06-29",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/014-large.jpg",
+          "thumb": "assets/fleeting-dreams/014-thumb.jpg",
+          "source": "IMG_9387 2.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-06-29",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/015-large.jpg",
+          "thumb": "assets/fleeting-dreams/015-thumb.jpg",
+          "source": "IMG_9410.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-06-29",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/016-large.jpg",
+          "thumb": "assets/fleeting-dreams/016-thumb.jpg",
+          "source": "IMG_9693.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-06-30",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/017-large.jpg",
+          "thumb": "assets/fleeting-dreams/017-thumb.jpg",
+          "source": "IMG_9704.jpg",
+          "width": 6000,
+          "height": 4000,
+          "date": "2025-05-01",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/018-large.jpg",
+          "thumb": "assets/fleeting-dreams/018-thumb.jpg",
+          "source": "IMG_9812.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-06-30",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/019-large.jpg",
+          "thumb": "assets/fleeting-dreams/019-thumb.jpg",
+          "source": "IMG_9814.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-06-30",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/fleeting-dreams/020-large.jpg",
+          "thumb": "assets/fleeting-dreams/020-thumb.jpg",
+          "source": "IMG_9833.JPG",
+          "width": 1456,
+          "height": 971,
+          "date": "2026-06-30",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        }
+      ],
+      "location": {
+        "zh": "东京 · 京都 · 奈良",
+        "en": "Tokyo · Kyoto · Nara"
+      }
+    },
+    {
+      "id": "hong-kong",
+      "title": {
+        "zh": "港岛",
+        "en": "Hong Kong Island"
+      },
+      "date": null,
+      "cover": "assets/hong-kong/001-thumb.jpg",
+      "images": [
+        {
+          "src": "assets/hong-kong/001-large.jpg",
+          "thumb": "assets/hong-kong/001-thumb.jpg",
+          "source": "IMG_9304.jpg",
+          "width": 3266,
+          "height": 4894,
+          "date": "2025-04-30",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/hong-kong/002-large.jpg",
+          "thumb": "assets/hong-kong/002-thumb.jpg",
+          "source": "IMG_9331.jpg",
+          "width": 3268,
+          "height": 2178,
+          "date": "2025-04-30",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        }
+      ],
+      "location": {
+        "zh": "香港",
+        "en": "Hong Kong"
+      }
+    },
+    {
+      "id": "southern-yunnan",
+      "title": {
+        "zh": "滇南手记",
+        "en": "Notes from Southern Yunnan"
+      },
+      "date": null,
+      "cover": "assets/southern-yunnan/001-thumb.jpg",
+      "images": [
+        {
+          "src": "assets/southern-yunnan/001-large.jpg",
+          "thumb": "assets/southern-yunnan/001-thumb.jpg",
+          "source": "IMG_1036.JPG",
+          "width": 2730,
+          "height": 4096,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/002-large.jpg",
+          "thumb": "assets/southern-yunnan/002-thumb.jpg",
+          "source": "IMG_1068.JPG",
+          "width": 3411,
+          "height": 2730,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/003-large.jpg",
+          "thumb": "assets/southern-yunnan/003-thumb.jpg",
+          "source": "IMG_1069.JPG",
+          "width": 4096,
+          "height": 2730,
+          "date": null,
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/004-large.jpg",
+          "thumb": "assets/southern-yunnan/004-thumb.jpg",
+          "source": "IMG_1903.JPG",
+          "width": 2304,
+          "height": 1536,
+          "date": "2024-06-24",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/005-large.jpg",
+          "thumb": "assets/southern-yunnan/005-thumb.jpg",
+          "source": "IMG_2840.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2023-07-28",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/006-large.jpg",
+          "thumb": "assets/southern-yunnan/006-thumb.jpg",
+          "source": "IMG_2996.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2023-07-28",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/007-large.jpg",
+          "thumb": "assets/southern-yunnan/007-thumb.jpg",
+          "source": "IMG_7049.jpg",
+          "width": 1506,
+          "height": 1004,
+          "date": "2026-02-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/008-large.jpg",
+          "thumb": "assets/southern-yunnan/008-thumb.jpg",
+          "source": "IMG_7158.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-02-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/009-large.jpg",
+          "thumb": "assets/southern-yunnan/009-thumb.jpg",
+          "source": "IMG_7640.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-02-18",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/010-large.jpg",
+          "thumb": "assets/southern-yunnan/010-thumb.jpg",
+          "source": "IMG_7776.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-02-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/011-large.jpg",
+          "thumb": "assets/southern-yunnan/011-thumb.jpg",
+          "source": "IMG_7806.jpg",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-02-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/012-large.jpg",
+          "thumb": "assets/southern-yunnan/012-thumb.jpg",
+          "source": "IMG_7826.jpg",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-02-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/013-large.jpg",
+          "thumb": "assets/southern-yunnan/013-thumb.jpg",
+          "source": "IMG_7834.jpg",
+          "width": 1479,
+          "height": 986,
+          "date": "2026-02-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/southern-yunnan/014-large.jpg",
+          "thumb": "assets/southern-yunnan/014-thumb.jpg",
+          "source": "IMG_7981.jpg",
+          "width": 1478,
+          "height": 985,
+          "date": "2026-02-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        }
+      ],
+      "location": {
+        "zh": "云南",
+        "en": "Yunnan"
+      }
+    },
+    {
+      "id": "tibet",
+      "title": {
+        "zh": "藏地来信",
+        "en": "Letters from Tibet"
+      },
+      "date": null,
+      "cover": "assets/tibet/001-thumb.jpg",
+      "images": [
+        {
+          "src": "assets/tibet/001-large.jpg",
+          "thumb": "assets/tibet/001-thumb.jpg",
+          "source": "IMG_4301.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-31",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/002-large.jpg",
+          "thumb": "assets/tibet/002-thumb.jpg",
+          "source": "IMG_4303.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-31",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/003-large.jpg",
+          "thumb": "assets/tibet/003-thumb.jpg",
+          "source": "IMG_4542.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2026-08-01",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/004-large.jpg",
+          "thumb": "assets/tibet/004-thumb.jpg",
+          "source": "IMG_4563.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2025-10-04",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/005-large.jpg",
+          "thumb": "assets/tibet/005-thumb.jpg",
+          "source": "IMG_4729.jpg",
+          "width": 5265,
+          "height": 4000,
+          "date": "2025-10-05",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/006-large.jpg",
+          "thumb": "assets/tibet/006-thumb.jpg",
+          "source": "IMG_4734.JPG",
+          "width": 5514,
+          "height": 3676,
+          "date": "2026-08-01",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/007-large.jpg",
+          "thumb": "assets/tibet/007-thumb.jpg",
+          "source": "IMG_4751.jpg",
+          "width": 967,
+          "height": 725,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/008-large.jpg",
+          "thumb": "assets/tibet/008-thumb.jpg",
+          "source": "IMG_4759.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/009-large.jpg",
+          "thumb": "assets/tibet/009-thumb.jpg",
+          "source": "IMG_4768.jpg",
+          "width": 1206,
+          "height": 905,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/010-large.jpg",
+          "thumb": "assets/tibet/010-thumb.jpg",
+          "source": "IMG_5086.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/011-large.jpg",
+          "thumb": "assets/tibet/011-thumb.jpg",
+          "source": "IMG_5204.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2026-08-03",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/012-large.jpg",
+          "thumb": "assets/tibet/012-thumb.jpg",
+          "source": "IMG_5312.jpg",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/013-large.jpg",
+          "thumb": "assets/tibet/013-thumb.jpg",
+          "source": "IMG_5482.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/014-large.jpg",
+          "thumb": "assets/tibet/014-thumb.jpg",
+          "source": "IMG_5502.JPG",
+          "width": 1158,
+          "height": 868,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/015-large.jpg",
+          "thumb": "assets/tibet/015-thumb.jpg",
+          "source": "IMG_5689.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2026-08-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/016-large.jpg",
+          "thumb": "assets/tibet/016-thumb.jpg",
+          "source": "IMG_5785.jpg",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/017-large.jpg",
+          "thumb": "assets/tibet/017-thumb.jpg",
+          "source": "IMG_5805.jpg",
+          "width": 1438,
+          "height": 1079,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/018-large.jpg",
+          "thumb": "assets/tibet/018-thumb.jpg",
+          "source": "IMG_5827.JPG",
+          "width": 1617,
+          "height": 1078,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/019-large.jpg",
+          "thumb": "assets/tibet/019-thumb.jpg",
+          "source": "IMG_5999.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/020-large.jpg",
+          "thumb": "assets/tibet/020-thumb.jpg",
+          "source": "IMG_6025.JPG",
+          "width": 970,
+          "height": 1455,
+          "date": "2025-10-07",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/021-large.jpg",
+          "thumb": "assets/tibet/021-thumb.jpg",
+          "source": "IMG_6750.jpg",
+          "width": 5472,
+          "height": 3648,
+          "date": "2025-01-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/022-large.jpg",
+          "thumb": "assets/tibet/022-thumb.jpg",
+          "source": "IMG_7928.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2025-01-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/tibet/023-large.jpg",
+          "thumb": "assets/tibet/023-thumb.jpg",
+          "source": "IMG_7953.jpg",
+          "width": 6000,
+          "height": 4000,
+          "date": "2025-01-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        }
+      ],
+      "location": {
+        "zh": "甘南 · 西藏 · 云南",
+        "en": "Gannan · Tibet · Yunnan"
+      }
+    },
+    {
+      "id": "snowline",
+      "title": {
+        "zh": "雪线",
+        "en": "Snowline"
+      },
+      "date": null,
+      "cover": "assets/snowline/001-thumb.jpg",
+      "images": [
+        {
+          "src": "assets/snowline/001-large.jpg",
+          "thumb": "assets/snowline/001-thumb.jpg",
+          "source": "IMG_2865.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2026-07-29",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/002-large.jpg",
+          "thumb": "assets/snowline/002-thumb.jpg",
+          "source": "IMG_3161.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2026-07-29",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/003-large.jpg",
+          "thumb": "assets/snowline/003-thumb.jpg",
+          "source": "IMG_3204.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2026-07-29",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/004-large.jpg",
+          "thumb": "assets/snowline/004-thumb.jpg",
+          "source": "IMG_3492.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2026-07-30",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/005-large.jpg",
+          "thumb": "assets/snowline/005-thumb.jpg",
+          "source": "IMG_3963.JPG",
+          "width": 5472,
+          "height": 3648,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/006-large.jpg",
+          "thumb": "assets/snowline/006-thumb.jpg",
+          "source": "IMG_4990.jpg",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/007-large.jpg",
+          "thumb": "assets/snowline/007-thumb.jpg",
+          "source": "IMG_5038.JPG",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/008-large.jpg",
+          "thumb": "assets/snowline/008-thumb.jpg",
+          "source": "IMG_5079.jpg",
+          "width": 1620,
+          "height": 1080,
+          "date": "2025-10-06",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        },
+        {
+          "src": "assets/snowline/009-large.jpg",
+          "thumb": "assets/snowline/009-thumb.jpg",
+          "source": "IMG_7845.JPG",
+          "width": 6000,
+          "height": 4000,
+          "date": "2025-01-19",
+          "location": null,
+          "title": {
+            "zh": "",
+            "en": ""
+          }
+        }
+      ],
+      "location": {
+        "zh": "甘南 · 西藏 · 云南",
+        "en": "Gannan · Tibet · Yunnan"
+      }
+    }
+  ]
+}
